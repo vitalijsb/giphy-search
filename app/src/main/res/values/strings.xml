@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gif Search</string>
+    <string name="sb_text">Let\'s find a gif</string>
+    <string name="sb_button">Find a gif</string>
+</resources>
